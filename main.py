@@ -1,4 +1,7 @@
 import pygame
+from jeu import Jeu
+from enquette import Enquette
+
 pygame.init()
 
 pygame.display.set_mode((500,300))
